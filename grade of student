@@ -33,13 +33,13 @@ mlm@mlm-ThinkCentre-E73:~/Desktop/V/linux$ chmod +x grade.sh
 mlm@mlm-ThinkCentre-E73:~/Desktop/V/linux$ ./grade.sh
 Contents of grades.txt:
 --------------------------
-Rojin, 90%
-Bobby, 95%
-nandha, 70%
+parvana, 90%
+nebin, 95%
+nandhakumar, 70%
 mahesh, 90%
 --------------------------
 Parsing and displaying grades:
-nandha:  70%
-Bobby:  95%
-Rojin:  90%
+nandhakumar:  70%
+nebin:  95%
+parvana:  90%
 mahesh:  90%
